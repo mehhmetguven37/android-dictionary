@@ -12,5 +12,6 @@ android.permissions = INTERNET
 android.api = 33
 android.minapi = 21
 android.sdk = 30
+android.accept_sdk_license = True
 android.ndk = 25b
 android.archs = arm64-v8a,armeabi-v7a
